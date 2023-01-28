@@ -1,7 +1,9 @@
+import Navbar from "../../components/navbar";
+
 export default function Index(){
     return(
         <div>
-            <p className="bg-red-600 text-lg">Hello World</p>
+            <Navbar/>
         </div>
     )
 }
