@@ -16,9 +16,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        padrao: ['Ibarra Real Nova', 'serif'],
-        logo: ['Caveat', 'cursive'],
-        logo2: ['Pacifico', 'cursive']
+        font1: ['Cherry Swash', 'cursive'],
+        font2: ['Lobster', 'cursive'] 
       }
     },
   },
