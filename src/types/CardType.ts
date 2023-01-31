@@ -1,6 +1,6 @@
 export interface iCard {
     title: string
     alt: string
-    description: string
+    resume: string
     image: string
 }
