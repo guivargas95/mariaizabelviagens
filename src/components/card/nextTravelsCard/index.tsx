@@ -2,7 +2,7 @@ import Card from "..";
 
 export default function NextTravelsCard() {
     return (
-        <section className="bg-gradient-to-r from-blue-100 to-blue-300 flex flex-col items-center">
+        <section className="bg-gradient-to-b from-blue-100 to-blue-300 flex flex-col items-center">
             <div className="text-center text-3xl p-20 font-bold ">
                 <h2 className="font-font2 ">Próximos destinos</h2>
             </div>
