@@ -4,7 +4,7 @@ export default function NextTravelsCard() {
     return (
         <section className="bg-gradient-to-b from-blue-100 to-blue-300 flex flex-col items-center">
             <div className="text-center text-3xl p-20 font-bold ">
-                <h2 className="font-font2 ">Próximos destinos</h2>
+                <h2 className="font-font2 ">Principais destinos</h2>
             </div>
             <ul className="flex flex-col text-center items-center text-amber-100 lg:grid lg:grid-cols-3 w-96 lg:w-full">
                 <li className="bg-my-color3 shadow-lg shadow-my-color5 h-full lg:h-fit w-3/4 mt-5 mb-5 lg:ml-auto lg:mr-auto  rounded-md hover:scale-105 hover:ease-in duration-300">
