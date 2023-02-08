@@ -13,6 +13,7 @@ module.exports = {
           color3: '#2462AD',
           color4: '#143761',
           color5: '#314761',
+          color6: '#8FD2FE',
         },
       },
       fontFamily: {
